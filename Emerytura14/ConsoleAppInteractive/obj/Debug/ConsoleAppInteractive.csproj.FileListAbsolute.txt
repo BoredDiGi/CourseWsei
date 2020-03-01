@@ -1,0 +1,7 @@
+D:\Users\dominik.wozniczka1\source\repos\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.exe.config
+D:\Users\dominik.wozniczka1\source\repos\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.exe
+D:\Users\dominik.wozniczka1\source\repos\Emerytura14\ConsoleAppInteractive\bin\Debug\ConsoleAppInteractive.pdb
+D:\Users\dominik.wozniczka1\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.csprojAssemblyReference.cache
+D:\Users\dominik.wozniczka1\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.csproj.CoreCompileInputs.cache
+D:\Users\dominik.wozniczka1\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.exe
+D:\Users\dominik.wozniczka1\source\repos\Emerytura14\ConsoleAppInteractive\obj\Debug\ConsoleAppInteractive.pdb
